@@ -1,4 +1,12 @@
-﻿using System.Collections;
+﻿/**********************************************************************************************
+ * Name: "Christopher Gugelmeier"                                                             *
+ * Student ID: "101175944"                                                                    *
+ * File name: "ButtonScript"                                                                  *
+ * Date last modified: "2020-10-26"                                                           *
+ * Script Description: "This script is responsible for the behaviour of each button"          *
+ **********************************************************************************************/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
